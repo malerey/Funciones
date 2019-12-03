@@ -71,11 +71,6 @@ const encontrarImpares = arr => {
 
 console.log(encontrarImpares(listaDeNumeros));
 
-const sumar = (num1, num2) => {
-  return num1 + num2
-};
-
-
 
 
 
